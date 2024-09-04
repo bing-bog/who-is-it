@@ -8,6 +8,6 @@ switch(naam){
   println("dit is vriend van boingo");
   break;
   default:
-  println("you thought it was jojo BUT IT WAS I DIO!");
+  println("you thought it was someone else BUT IT WAS I DIO!");
   break;
 }
